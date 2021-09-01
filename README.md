@@ -1,1 +1,1 @@
-https://annaolenchuk.github.io/AnnaOlenchukSMMCV/
+https://annaolenchuk.github.io/CV-HTML-CSS-Coder/
